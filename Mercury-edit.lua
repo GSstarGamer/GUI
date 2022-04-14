@@ -73,7 +73,7 @@ local Library = {
 		},
 		GStheme = {
 			Main = Color3.fromRGB(128, 0, 255),
-			Secondary = Color3.fromRGB(50, 33, 64),
+			Secondary = Color3.fromRGB(96, 28, 148),
 			Tertiary = Color3.fromRGB(70, 130, 180),
 
 			StrongText = Color3.fromHSV(0, 0, 1),		
