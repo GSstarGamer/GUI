@@ -76,8 +76,8 @@ local Library = {
 			Secondary = Color3.fromRGB(50, 50, 55),
 			Tertiary = Color3.fromRGB(70, 130, 180),
 
-			StrongText = Color3.fromHSV(0, 0, 1),		
-			WeakText = Color3.fromHSV(0, 0, 172/255)
+			StrongText = Color3.fromHSV(255, 255, 255),		
+			WeakText = Color3.fromHSV(255, 255, 172/255)
 		},
 		OperaGX = {},
 		VisualStudio = {}
