@@ -73,10 +73,10 @@ local Library = {
 		},
 	  GStheme = {
       		Main = Color3.fromRGB(128, 0, 255),
-			Secondary = Color3.fromRGB(149, 25, 12),
+			Secondary = Color3.fromRGB(68, 0, 144),
 			Tertiary = Color3.fromRGB(109, 157, 197),
 
-			StrongText = Color3.fromHSV(0, 0, 1),        
+			StrongText = Color3.fromHSV(0, 0, 0),        
 			WeakText = Color3.fromHSV(0, 0, 172/255)
     		},
 		OperaGX = {},
