@@ -72,9 +72,9 @@ local Library = {
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
 	  GStheme = {
-      		Main = Color3.fromRGB(89, 35, 37),
-			Secondary = Color3.fromRGB(49, 35, 89),
-			Tertiary = Color3.fromRGB(51, 153, 137),
+      		Main = Color3.fromRGB(6, 141, 157),
+			Secondary = Color3.fromRGB(83, 89, 154),
+			Tertiary = Color3.fromRGB(109, 157, 197),
 
 			StrongText = Color3.fromHSV(0, 0, 1),        
 			WeakText = Color3.fromHSV(0, 0, 172/255)
